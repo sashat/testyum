@@ -6,3 +6,4 @@
       copy:
         content: hello worldn
         dest: /tmp/testfile.txt
+	owner: go
