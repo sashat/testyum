@@ -1,2 +1,2 @@
 [all]
-instant6190.server.com
+instant6190.server.com ansible_user=root
